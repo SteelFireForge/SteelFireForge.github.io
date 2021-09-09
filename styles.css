@@ -64,7 +64,7 @@ a.about:hover {color:#FF9800; text-decoration:underline}
   width: 105%;
   background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
   height: 99px;
-  background-color: black;
+  background-color: #DDDDDD;
   background-position: center;
   opacity: 90%;
 }
