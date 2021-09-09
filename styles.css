@@ -93,7 +93,7 @@ a.about:hover {color:#FF9800; text-decoration:underline}
 }
 
     .tech-slideshow > div {
-        height: 400px;
+        height: 200px;
         width: 4526px;
         background: url(scroll.png);
         position: absolute;
