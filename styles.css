@@ -1,9 +1,9 @@
 body{text-align: left; background:#DDDDDD;
 padding: 0 0% 0 0%}
 
-h1 {font-family:   Arial, Times New Roman, sans-sarif; color:#4B5B96;}
+h1 {font-family:   Helvetica, "Times New Roman", sans-sarif; color:#4B5B96;}
 
-p {font-family:   Arial, Times New Roman, sans-sarif; color:black}
+p {font-family:   Helvetica, "Times New Roman", sans-sarif; color:black}
 
 a.list {font-family: Arial, Times New Roman, sans-sarif;font-size: 22px; font-wieght:bolder; text-decoration:none;line-hieght:32px}
     a.list:link {
