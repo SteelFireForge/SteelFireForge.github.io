@@ -3,9 +3,9 @@ padding: 0 0% 0 0%}
 
 h1 {font-family:   Copperplate, "Copperplate Gothic Light", fantasy; color:#4B5B96;}
 
-p {font-family:   Helvetica, "Times New Roman", sans-sarif; color:black}
+p {font-family:   Helvetica, Arial, sans-sarif; color:black}
 
-a.list {font-family: Arial, Times New Roman, sans-sarif;font-size: 22px; font-wieght:bolder; text-decoration:none;line-hieght:32px}
+a.list {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 22px; font-wieght:bolder; text-decoration:none;line-hieght:32px}
     a.list:link {
         color: #4B5B96
     }
@@ -14,7 +14,7 @@ a.list {font-family: Arial, Times New Roman, sans-sarif;font-size: 22px; font-wi
     }
 a.list:hover {color:#FF9800; text-decoration:underline}
 
-a.money {font-family: Arial, Times New Roman, sans-sarif;font-size: 22px; font-wieght:bold; text-decoration:none;line-hieght:32px}
+a.money {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 22px; font-wieght:bold; text-decoration:none;line-hieght:32px}
 a.money:link {color:black}
     a.money:visited {
         color: #4B5B96
@@ -84,8 +84,8 @@ a.about:hover {color:#FF9800; text-decoration:underline}
 }
 
 .tech-slideshow {
-    height: 400px;
-    max-width: 1600px;
+    height: 200px;
+    max-width: 800px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -94,7 +94,7 @@ a.about:hover {color:#FF9800; text-decoration:underline}
 
     .tech-slideshow > div {
         height: 200px;
-        width: 4526px;
+        width: 2526px;
         background: url(scroll.png);
         position: absolute;
         top: 0;
