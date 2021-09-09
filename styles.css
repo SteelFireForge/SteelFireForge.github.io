@@ -14,7 +14,7 @@ a.list {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size
     }
 a.list:hover {color:#FF9800; text-decoration:underline}
 
-a.money {font-family: Copperplate, "Copperplate Gothic Light", fantasy; font-size: 22px; font-wieght:bold; text-decoration:none;line-hieght:32px}
+a.money {font-family: Helvetica, Arial, sans-sarif; font-size: 22px; font-wieght:bold; text-decoration:none;line-hieght:32px}
 a.money:link {color:black}
     a.money:visited {
         color: #4B5B96
