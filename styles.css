@@ -84,8 +84,8 @@ a.about:hover {color:#FF9800; text-decoration:underline}
 }
 
 .tech-slideshow {
-    height: 200px;
-    max-width: 800px;
+    height: 400px;
+    max-width: 1600px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
